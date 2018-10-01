@@ -1,5 +1,5 @@
 const cars = require('./cars.json');
-const zipcodes = require('./zipCodesMX.json');
+const zipcodes = require('./zipcodesMX.json');
 const products = require('./products.json');
 const extensions = require('./extensions.json');
 const occupations = require('./occupations.json');
