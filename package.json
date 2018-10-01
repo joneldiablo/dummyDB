@@ -4,6 +4,7 @@
   "description": "fakeDB base de datos de prueba para el proyecto \"cotizador qualitas\"\"",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "joneldiablo",
