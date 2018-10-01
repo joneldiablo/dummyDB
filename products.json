@@ -1,0 +1,45 @@
+[
+  {
+    "label": "Básica",
+    "materialDamage": false,
+    "totalTheft": false,
+    "medicalAssistance": true,
+    "dead": false,
+    "legalAssistance": true,
+    "liability": true,
+    "roadsideAssistance": true,
+    "rcEUA": false,
+    "amount": 5000,
+    "name": "basica",
+    "extensions": false
+  },
+  {
+    "label": "Limitada",
+    "materialDamage": false,
+    "totalTheft": true,
+    "medicalAssistance": true,
+    "dead": true,
+    "legalAssistance": true,
+    "liability": true,
+    "roadsideAssistance": true,
+    "rcEUA": true,
+    "amount": 10000,
+    "name": "limitada",
+    "extensions": true
+  },
+  {
+    "label": "Amplia",
+    "materialDamage": true,
+    "totalTheft": true,
+    "medicalAssistance": true,
+    "dead": true,
+    "legalAssistance": true,
+    "liability": true,
+    "roadsideAssistance": true,
+    "rcEUA": true,
+    "prefer": true,
+    "amount": 15000,
+    "name": "amplia",
+    "extensions": true
+  }
+]

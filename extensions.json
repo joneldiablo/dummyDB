@@ -1,0 +1,62 @@
+[
+  {
+    "label": "Auto sustituto",
+    "name": "autoSus",
+    "icon": "icon-sustituto",
+    "amount": 2000
+  },
+  {
+    "label": "Reducción o disminución de deducible",
+    "name": "deducible",
+    "icon": "icon-discount",
+    "amount": 2000
+  },
+  {
+    "label": "Robo parcial",
+    "name": "parcial",
+    "icon": "icon-robo",
+    "amount": 2000
+  },
+  {
+    "label": "Gastos de traslado",
+    "name": "traslado",
+    "icon": "icon-grua",
+    "amount": 2000
+  },
+  {
+    "label": "Extensión de responsabilidad social",
+    "name": "responsabilidad",
+    "icon": "icon-car-crash",
+    "amount": 2000
+  },
+  {
+    "label": "Auto sustituto",
+    "name": "autoSus1",
+    "icon": "icon-sustituto",
+    "amount": 2000
+  },
+  {
+    "label": "Reducción o disminución de deducible",
+    "name": "deducible1",
+    "icon": "icon-discount",
+    "amount": 2000
+  },
+  {
+    "label": "Robo parcial",
+    "name": "parcial1",
+    "icon": "icon-robo",
+    "amount": 2000
+  },
+  {
+    "label": "Gastos de traslado",
+    "name": "traslado1",
+    "icon": "icon-grua",
+    "amount": 2000
+  },
+  {
+    "label": "Extensión de responsabilidad social",
+    "name": "responsabilidad1",
+    "icon": "icon-car-crash",
+    "amount": 2000
+  }
+]
